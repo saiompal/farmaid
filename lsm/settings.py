@@ -31,7 +31,7 @@ SECRET_KEY = '-c$h$%1(9p#d*-%7ohpjc*z5ot$ha*y3+q@&=it*ie2v$s-$q)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','farmaid-lsm.herokuapp.com']
 
 
 # Application definition
